@@ -1,26 +1,41 @@
 ## Hi there 👋
-Welcome to our Master Branch!<br>
-This is [neuralvelocityai.onrender.com](Neural Velocity)'s internal core where every piece of bits and pieces are made by us from scratch to flabergasting.<br>
+Welcome to our GitHub Profile!<br>
+This organization on GitHub is [nazproai.onrender.com](Naz Pro AI)'s internal core where every bits and corners of the website are made by us from scratch to impressive.<br>
 
-## What do we program?<br>
-In this website we have every single bit of program made by us with <b>Python, HTML and little bit of Javascript (for function scripts).</b><br>
-<b>If you have access</b> to our repository, you will be able to view our Master Branch.<br>
+# What do we program?<br>
+In this website we have used multiple programming languages such as <b>Python, HTML, CSS, TeX, JavaScript (for short functions in HTML codes), .</b><br>
+<i><b>Note:</b><b>If you have access to our repository, you will be able to view our Master Branch.<br></b></i>
 
-## Rules and Regulations<br>
+# Rules and Regulations<br>
 As other websites have rules and regulations, we do have some,<br>
-&nbsp; 1. If any data of yours has been misplaced or stolen, contact us and we will check for clues.<br>
-&nbsp; 2. No arguements should occur in the organization or any other repositories of our website.<br>
-&nbsp; 3. Regular updates should be taken for the website.<br>
-&nbsp; 4. If your API has been stolen, revoke or delete it immediately to stop hackers from using data of yours.<br>
-&nbsp; 5. If hacking was found by an customer/client, please contact the admins immediately as they know the procedure taken and to stop further theft of data.<br>
-&nbsp; 6. If hacking of more theft was done by a hacker, an admin should activate Procedure PANIC where all data is saved and protected.<br>
-&nbsp; 7. Admins have more respect than any positions below them.<br>
+&nbsp; 1. If you have seen theft of your data that can be small or huge, contact us immediately. (Contact Details Given Below!)<br>
+&nbsp; 2. No arguements should occur within the organization and to other sub-branches of it. This may lead you to be given the 1st warning, 2nd warning, 3rd warning and then a temporary ban and then permanent ban without notice.<br>
+&nbsp; 3. Periodic updates should be given, but not standalone.<br>
+&nbsp; 4. If your API Key (Given by us to use the AI) has been stolen, immediately revoke, delete or contact us to prevent further misuse of your API.<br>
+&nbsp; 5. At the time of hacking, admins should activate Procedure Panic if, NazCromaton hasn't noticed it.<br>
+&nbsp; 7. All Super Admins, Admins, Coordinators, and any other positions have more respect than the people standing below.<br>
 
-## Procedure PANIC
-As of 2025 we have noticed that even other websites are being hacked. So, to keep our customers' data safe, we implemented the Procedure PANIC where, when we activate, (saves and protects) your data.
-To keep our procedure safe, we will not say where it saves and protects our clients data so that it doesn't go into the wrong hands, and what we can say is..., we will say no more...
+# Procedure PANIC
+As of 2025 we have asked ourselves, "Why is our website so weak in front of the others?." Then, implemented the PANIC Mode where, our website starts its lockdown mode, where it keeps your credentials safe!
+To keep our secret system safe, we won't say anymore to prevent leakage of data because we have said more than we needed to.
 
+# Contact Us!
+<b>Email ID:</b> <i>zioncolab@outlook.com</i> (Our previous name for our company)<br>
+<b>Speed:</b><i>May take 1-3 days. Maximum 3 weeks.</i><br>
+<b>Contact on Twilio:</b> <i>Find a talk ribbon on right side of the page. Click on it and chat with us within few minutes</i> 
+<b>Speed:</b><i>May take 1 day to respond. Max 4 days</i>
 <b>Thank you! For reading.</b>
+
+# URL of the Website
+The whole point of this profile of our company was to advertise our URL and we forgot about the whole thing! 🤦🏼‍♂️😄😄
+The Sub-Domain of our URL is mentioned in the first section of our Profile.
+For more clarification, please check out our website's routes (you may copy/paste in your browser):
+nazproai.onrender.com/home
+nazproai.onrender.com/install
+nazproai.onrender.com/about
+nazproai.onrender.com/contact
+nazproai.onrender.com/login
+nazproai.onrender.com/signup
 <!--
 
 **Here are some ideas to get you started:**
