@@ -22,9 +22,8 @@ To keep our secret system safe, we won't say anymore to prevent leakage of data 
 # Contact Us!
 <b>Email ID:</b> <i>zioncolab@outlook.com</i> (Our previous name for our company)<br>
 <b>Speed:</b><i>May take 1-3 days. Maximum 3 weeks.</i><br>
-<b>Contact on Twilio:</b> <i>Find a talk ribbon on right side of the page. Click on it and chat with us within few minutes</i> 
+<b>Contact on Twilio:</b> <i>Find a talk ribbon on right side of the page. Click on it and chat with us within few minutes</i><br>
 <b>Speed:</b><i>May take 1 day to respond. Max 4 days</i>
-<b>Thank you! For reading.</b>
 
 # URL of the Website
 The whole point of this profile of our company was to advertise our URL and we forgot about the whole thing! 🤦🏼‍♂️😄😄
