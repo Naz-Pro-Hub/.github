@@ -3,7 +3,7 @@ Welcome to our GitHub Profile!<br>
 This organization on GitHub is [nazproai.onrender.com](Naz Pro AI)'s internal core where every bits and corners of the website are made by us from scratch to impressive.<br>
 
 ## What do we program?<br>
-In this website we have used multiple programming languages such as <b>Python, HTML, CSS, TeX, JavaScript (for short functions in HTML codes), .</b><br>
+In this website we have used multiple programming languages such as <b>Python, HTML, CSS, TeX, JavaScript (for short functions in HTML codes).</b><br>
 <i><b>Note:</b><b>If you have access to our repository, you will be able to view our Master Branch.<br></b></i>
 
 ## Rules and Regulations<br>
