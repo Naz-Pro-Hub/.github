@@ -20,21 +20,11 @@ As of 2025 we have asked ourselves, "Why is our website so weak in front of the 
 To keep our secret system safe, we won't say anymore to prevent leakage of data because we have said more than we needed to.
 
 ## Contact Us!
-<b>Email ID:</b> <i>zioncolab@outlook.com</i> (Our previous name for our company)<br>
-<b>Speed:</b><i>May take 1-3 days. Maximum 3 weeks.</i><br>
-<b>Contact on Twilio:</b> <i>Find a talk ribbon on right side of the page. Click on it and chat with us within few minutes</i><br>
-<b>Speed:</b><i>May take 1 day to respond. Max 4 days</i>
-
+<a href="mailto:nazproai@outlook.com"><kbd>&nbsp;&nbsp;&nbsp;Send Email&nbsp;&nbsp;&nbsp;</kbd></a>&nbsp;
+<a href="nazproai.onrender.com"><kbd>&nbsp;&nbsp;&nbsp;Contact us on our website (right-corner)&nbsp;&nbsp;&nbsp;</kbd></a>
 ## URL of the Website
 The whole point of this profile of our company was to advertise our URL and we forgot about the whole thing! 🤦🏼‍♂️😄😄<br>
-The Sub-Domain of our URL is mentioned in the first section of our Profile.<br>
-For more clarification, please check out our website's routes (you may copy/paste in your browser):<br>
-nazproai.onrender.com/home<br>
-nazproai.onrender.com/install<br>
-nazproai.onrender.com/about<br>
-nazproai.onrender.com/contact<br>
-nazproai.onrender.com/login<br>
-nazproai.onrender.com/signup<br>
+<a href="https://nazproai.onrender.com"><kbd>&nbsp;&nbsp;&nbsp;Naz Pro AI&nbsp;&nbsp;&nbsp;</kbd></a>
 
 ## About Us<br>
 We aren't just a team, but a family.<br>
